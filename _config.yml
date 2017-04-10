@@ -36,6 +36,7 @@ prose:
           value: events
       - name: member-cost
         field: 
+          label: member cost
           element: number
           value: enter member cost
           
