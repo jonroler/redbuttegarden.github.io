@@ -29,9 +29,8 @@ exclude:
 permalink: pretty
 prose:
   metadata:
-    events:
-      _posts:
-        - name: layout
-          field:
-            element: hidden
-            value: events
+    events/_posts
+      - name: layout
+        field:
+          element: hidden
+          value: events
