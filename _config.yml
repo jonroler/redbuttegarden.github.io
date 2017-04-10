@@ -34,3 +34,8 @@ prose:
         field:
           element: hidden
           value: events
+      - name: member-cost
+        field: 
+          element: number
+          value: enter member cost
+          
