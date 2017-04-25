@@ -28,6 +28,7 @@ exclude:
 - ".travis.yml"
 permalink: pretty
 prose:
+  ignore: ['_config.yml']
   metadata:
     events/_posts:
       - name: layout
@@ -39,4 +40,3 @@ prose:
           label: member cost
           element: number
           value: enter member cost
-          
